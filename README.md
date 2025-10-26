@@ -1,3 +1,5 @@
+### [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/antilectual)  **Feel free to donate if you like my work!**
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antilectual&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilectual&theme=radical&hide=css,html&langs_count=10&layout=compact)
 
